@@ -1,11 +1,8 @@
-#
-# ps10pr4.py  (Problem Set 10, Problem 4)
-#
+
 # AI Player for use in Connect Four   
-#
 
 import random  
-from ps10pr3 import *
+from play_game import *
 
 class AIPlayer(Player):
     """ A player class that looks ahead a certain number of moves to intelligently
