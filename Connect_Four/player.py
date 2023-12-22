@@ -1,12 +1,8 @@
-#
-# ps10pr2.py  (Problem Set 10, Problem 2)
-#
+
 # A Connect-Four Player class   
-#
 
-from ps10pr1 import Board
+from board import Board
 
-# write your class below
 
 class Player:
     """ represents a player of the connect for game.
