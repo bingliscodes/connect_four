@@ -1,4 +1,3 @@
-### ps10pr1.py ###
 ## Connect 4 Board class ##
 
 class Board:
