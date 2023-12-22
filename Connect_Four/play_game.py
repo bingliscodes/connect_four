@@ -1,11 +1,8 @@
-#
-# ps10pr3.py  (Problem Set 10, Problem 3)
-#
-# Playing the game    
-#
 
-from ps10pr1 import Board
-from ps10pr2 import Player
+# Playing the game 
+
+from board import Board
+from player import Player
 import random
     
 def connect_four(player1, player2):
