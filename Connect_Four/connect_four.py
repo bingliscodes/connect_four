@@ -1,5 +1,5 @@
 ## a connect four game for player v player or player v ai ##
-from ps10pr4 import *
+from AI_player import *
 import random
 
 print("test")
